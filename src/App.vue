@@ -4,6 +4,6 @@ import TheTodo from './components/TheTodo.vue';
 
 <template>
   <main>
-    <TheTodo></TheTodo>
+    <TheTodo class="classname"></TheTodo>
   </main>
 </template>
